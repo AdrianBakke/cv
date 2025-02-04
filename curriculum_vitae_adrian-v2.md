@@ -1,6 +1,5 @@
 <div style="width:100%;height:100px;background:#bae6f7;text-align:center;line-height: 100px;">
   <bold style='color:black;font-size:40px;'>Adrian Bakke</bold>
-  <img src="3kon.webp" style="width:100px; float:right"/>
 </div>
 
 
