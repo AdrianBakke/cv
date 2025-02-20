@@ -8,8 +8,7 @@
 - **Github:** https://github.com/AdrianBakke
 
 ### **Profesjonell Sammendrag**
-Erfaren systemutvikler med en solid bakgrunn i informatikk og fysikk, med spesialisering innen maskinlæring og backend-utvikling. Dyktig i Python, Kotlin og Java, med omfattende erfaring i bruk av Java/Spring Boot for komplekse systemintegrasjoner. Demonstrerer sterk kompetanse i Linux-baserte miljøer og REST API-design. Stor sans for innovasjon og forbedring gjennom effektive, skalerbare løsninger og avansert teknisk problemløsning.
-
+Erfaren systemutvikler med en solid bakgrunn i informatikk og fysikk, med spesialisering innen maskinlæring, dataanalyse og backend-utvikling. Dyktig i Python, Kotlin og Java, med omfattende erfaring i bruk av Java/Spring Boot for komplekse systemintegrasjoner. Demonstrerer sterk kompetanse i Linux-baserte miljøer og REST API-design. Har inngående kjennskap til dataanalyseverktøy som Jupyter, Pandas, Spark, og Databricks, samt SQL for databasehåndtering. Stor sans for innovasjon og forbedring gjennom effektive, skalerbare løsninger og avansert teknisk problemløsning, inkludert maskinlæring og automatisert testing.
 
 ### **Akademisk Bakgrunn**
 - **Bachelor i Fysikk**
@@ -17,10 +16,10 @@ Erfaren systemutvikler med en solid bakgrunn i informatikk og fysikk, med spesia
   - **Periode:** 2016–2019
 
 ### **Tekniske Ferdigheter**
-- **Programmeringsspråk:** Python, Kotlin, Golang, Java, C/C++, Rust, Haskell
-- **Teknologier:** Spring Boot, REST API, Linux, Docker, Json, XML, JAX-WS, PostgreSQL, MySQL, Oracle, Mikrotjenester
-- **Verktøy:** Maven, Git, JIRA, Confluence, Jenkins, Swagger, Azure Devops
-- **Metoder:** DevOps, kontinuerlig og testdreven utvikling, automatisk testing, Agile
+- **Programmeringsspråk:** Python, Kotlin, Javascript (+ HTML og CSS), Java, C/C++, Rust, Haskell, Golang
+- **Teknologier:** Spring Boot, REST API, Linux, Docker, JSON, XML, JAX-WS, PostgreSQL, MySQL, Oracle, Mikrotjenester
+- **Verktøy:** Maven, Git, JIRA, Confluence, Jenkins, Swagger, Azure DevOps, IntelliJ, VsCode, Nvim, Oracle SQL Developer, Splunk, OpenShift
+- **Metoder:** DevOps, kontinuerlig og testdrevet utvikling, automatisk testing, Agile, Asynchronous programming, Data Lake, PowerBI
 
 ### **Profesjonell Erfaring**
 
@@ -37,7 +36,7 @@ I mine roller , har jeg jobbet med en rekke prosjekter som involverte moderne te
 - **Jenkins:** Benyttet Jenkins for kontinuerlig integrasjon og levering, noe som forbedret utviklingsprosesser.
 - **Docker:** Brukt Docker for containerisering av applikasjoner, noe som bidro til konsistens i utviklings- og produksjonsmiljøer.
 - **Maskin-læring og analyse:** Meget effektiv med de største rammeverkene og biblitoekene for maskin-læring og analyse. Her brukes hovedsak Python som programmeringsspråk, sammen med biblioteker som Pandas, Numpy, Pytorch og Sklearn.
-- **Fullstack utvikling:** Hatt ansvar for å lage apper og tjenester der jeg har utviklet både front og backend. Effektiv med rammeverk som Python Flask.
+- **Fullstack utvikling:** Hatt ansvar for å lage apper og tjenester der jeg har utviklet både front og backend. Effektiv med rammeverk som Python Flask og Springboot.
 
 ### **Prosjekter**
 
